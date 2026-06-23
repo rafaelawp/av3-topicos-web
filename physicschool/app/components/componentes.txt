@@ -1,0 +1,1 @@
+pasta para coisas globais como header e footer
